@@ -1,0 +1,22 @@
+{
+    "name": "Firka",
+    "identifier": "app.firka.legacy",
+    "sourceURL": "https://git.spitkov.hu/spitkov/firkaipa",
+    "apps": [
+        {
+            "name": "Firka",
+            "bundleIdentifier": "app.firka.legacy",
+            "developerName": "QwIT-Development",
+            "version": "5.1.5",
+            "versionDate": "2025-03-1T21:40:00+08:00",
+            "versionDescription": "asd",
+            "downloadURL": "https://github.com/QwIT-Development/app-legacy/releases/download/v5.1.5/firkaapp.ipa",
+            "localizedDescription": "asd",
+            "iconURL": "https://github.com/QwIT-Development/app-legacy/blob/master/refilc/assets/icons/ic_android.png?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 34400000,
+            "type": 1
+        }
+    ]
+}
