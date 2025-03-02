@@ -1,15 +1,15 @@
 {
     "name": "Firka",
     "identifier": "app.firka.legacy",
-    "sourceURL": "https://git.spitkov.hu/spitkov/firkaipa",
+    "sourceURL": "https://github.com/Apple4787Microbitter/FirkaEsign",
     "apps": [
         {
             "name": "Firka",
             "bundleIdentifier": "app.firka.legacy",
-            "developerName": "QwIT-Development",
+            "developerName": "QwIT-Development (kima nélküli)",
             "version": "5.1.5",
             "versionDate": "2025-03-1T21:40:00+08:00",
-            "versionDescription": "asd",
+            "versionDescription": "Firka+ és Firka Gold funkciók ingyenesek mostantól.",
             "downloadURL": "https://github.com/QwIT-Development/app-legacy/releases/download/v5.1.5/firkaapp.ipa",
             "localizedDescription": "asd",
             "iconURL": "https://github.com/QwIT-Development/app-legacy/blob/master/refilc/assets/icons/ic_android.png?raw=true",
